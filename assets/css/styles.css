@@ -330,6 +330,12 @@ body.dark-theme{
   width: 520px !important;
 }
 
+@media (max-width: 1356px) {
+  .home__perfil img{
+    width: 260px !important;
+  }
+}
+
 .home__shape-wawes,
 .home__shape-circle{
   position: absolute;
